@@ -1,0 +1,22 @@
+# Ignore build outputs
+bin/
+obj/
+publish/
+
+# Ignore user-specific files
+*.user
+*.vs
+*.suo
+*.vscode/
+
+# Ignore local settings
+appsettings.Development.json
+*.db
+
+# Ignore git
+.git
+.gitignore
+
+# Node / frontend if any
+node_modules/
+dist/

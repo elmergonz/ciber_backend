@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ciber_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d268c17226bbcda1105f5db9071b3439d79d8fe5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eec29bd890ba616227fa5bf8317abeb8b7035ddb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ciber_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ciber_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
