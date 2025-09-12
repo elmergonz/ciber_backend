@@ -19,7 +19,7 @@ services:
       DefaultConnection: "Host=db;Port=5432;Database=ciber_backend;Username=postgres;Password=secret;SSL Mode=Disable"
       DOTNET_ENVIRONMENT: Development
     ports:
-      - "8080:8080"
+      - "5000:8080"
 
 volumes:
   ciber_backend_db_data:
