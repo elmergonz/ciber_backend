@@ -1,0 +1,6 @@
+@ciber_backend_HostAddress = http://localhost:5271
+
+GET {{ciber_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

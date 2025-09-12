@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ooqqfYErI8kM/fd0bicAiGbv23kFFAjIQAfdRCyYoKwj/vYALZaYrxiPw7AVCTWxDn9LzHzetFu33xQvfNqreA==",
+  "success": true,
+  "projectFilePath": "/home/elmer/projects/ciber_backend/ciber_backend.csproj",
+  "expectedPackageFiles": [
+    "/home/elmer/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/elmer/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/elmer/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/elmer/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/elmer/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/elmer/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
